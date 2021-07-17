@@ -8,11 +8,11 @@ Only the back end of the app is available. Interaction can be seen on API Endpoi
 
 ### Password reset sequence diagram ###
 
-![seq_diagram.png]()
+![seq_diagram.png](https://raw.githubusercontent.com/Wolam/RESTFul-note-app/master/docs/sequence_diagram.png)
 
 ### Password reset class diagram ###
 
-![class_diagram.png]()
+![class_diagram.png](https://raw.githubusercontent.com/Wolam/RESTFul-note-app/master/docs/class_diagram.png)
 
 ### API Endpoint ###
 
